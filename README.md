@@ -5,6 +5,6 @@
  * Expandable
 
 #### Features
-	- 1 to 1 & 1 to n communication
-	- Videos/Voice/Text message
-	- All messages are encrypt in transmission
+	> 1 -> 1 and 1 -> n communication(chatting online)
+	> Videos/Voice/Text message
+	> All messages are encrypt in transmission
