@@ -1,4 +1,8 @@
-# Easy use, light weight, flexible, expandable Instant Messaging System
+## Instant Messaging System
+ * Easy use
+ * Light weight
+ * Flexible
+ * Expandable
 
 #### Features
 	- 1 to 1 & 1 to n communication
