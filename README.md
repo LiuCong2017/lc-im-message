@@ -3,6 +3,7 @@
  * Light weight
  * Flexible
  * Expandable
+ * Cross-platform
 
 ### Features
 	* 1 -> 1 and 1 -> n communication(chatting online)
