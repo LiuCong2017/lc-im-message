@@ -4,6 +4,7 @@
  * Flexible
  * Expandable
  * Cross-platform
+ * International language support
 
 ### Features
 	* 1 -> 1 and 1 -> n communication(chatting online)
