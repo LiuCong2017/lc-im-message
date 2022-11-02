@@ -9,6 +9,7 @@
 ### Features
 	* 1 -> 1 and 1 -> n communication(chatting online)
 	* Videos/Voice/Text message
+	* Live Streaming support
 	* All messages are encrypt in transmission
 	* Support Web/Windows Desktop/Android/IOS/MacOS/Linux
 
