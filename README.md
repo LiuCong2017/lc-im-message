@@ -7,7 +7,7 @@
  * International language support
 
 ### Features
-	* 1 -> 1 and 1 -> n communication(chatting online)
+	* Group Chat
 	* Videos/Voice/Text message
 	* Live Streaming support
 	* All messages are encrypt in transmission
