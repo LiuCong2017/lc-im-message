@@ -1,3 +1,10 @@
+![](https://img.shields.io/badge/language-Java-brightgreen.svg?style=plastic)
+![](https://img.shields.io/badge/language-Go-brightgreen.svg?style=plastic)
+![](https://img.shields.io/badge/language-TypeScript-brightgreen.svg?style=plastic)
+![](https://img.shields.io/badge/language-Flutter-brightgreen.svg?style=plastic)
+![](https://img.shields.io/badge/language-Vue-brightgreen.svg?style=plastic)
+![](https://img.shields.io/badge/language-NodeJS-brightgreen.svg?style=plastic)
+
 ## Instant Messaging System
  * Easy use
  * Light weight
@@ -26,9 +33,3 @@
 > 4. Mini Programs
 >> - uniapp
 
-![](https://img.shields.io/badge/language-Java-brightgreen.svg?style=plastic)
-![](https://img.shields.io/badge/language-Go-brightgreen.svg?style=plastic)
-![](https://img.shields.io/badge/language-TypeScript-brightgreen.svg?style=plastic)
-![](https://img.shields.io/badge/language-Flutter-brightgreen.svg?style=plastic)
-![](https://img.shields.io/badge/language-Vue-brightgreen.svg?style=plastic)
-![](https://img.shields.io/badge/language-NodeJS-brightgreen.svg?style=plastic)
