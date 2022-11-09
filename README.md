@@ -26,5 +26,9 @@
 > 4. Mini Programs
 >> - uniapp
 
-### Language
-![](https://img.shields.io/badge/language-java-brightgreen.svg?style=plastic)
+![](https://img.shields.io/badge/language-Java-brightgreen.svg?style=plastic)
+![](https://img.shields.io/badge/language-Go-brightgreen.svg?style=plastic)
+![](https://img.shields.io/badge/language-TypeScript-brightgreen.svg?style=plastic)
+![](https://img.shields.io/badge/language-Flutter-brightgreen.svg?style=plastic)
+![](https://img.shields.io/badge/language-Vue-brightgreen.svg?style=plastic)
+![](https://img.shields.io/badge/language-NodeJS-brightgreen.svg?style=plastic)
