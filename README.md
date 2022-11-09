@@ -25,3 +25,6 @@
 
 > 4. Mini Programs
 >> - uniapp
+
+### Language
+![](https://img.shields.io/badge/language-java-brightgreen.svg?style=plastic)
